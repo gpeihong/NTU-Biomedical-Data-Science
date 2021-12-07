@@ -1,1 +1,1 @@
-# NTU-Biomedical-Data-Science
+# MSc in biomedical data science test
